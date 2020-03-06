@@ -1,5 +1,8 @@
-# ino-coin price gnome ticket 
+# ino-coin gnome price ticker
 
-Gnome 3 desktop ticker for ino-coin price with Python and argos. Rename to ino-coin.1r.60s.py and put in ~/.config/argos
+Get ino-coin price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/ino-coin-price-gnome-ticket/](https://codesharedot.github.io/ino-coin-price-gnome-ticket/)
 
-https://pythonbasics.org
+ino-coin price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to ino-coin.1r60s.py and put in ~/.config/argos
